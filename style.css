@@ -1,0 +1,6 @@
+.tab.current-tab{
+    /*  main work is to change bg color of the clicked tab to know on which tab we are */
+    border-radius: 4px;
+    background-color: rgba(219, 226, 239, 0.5);
+
+}
